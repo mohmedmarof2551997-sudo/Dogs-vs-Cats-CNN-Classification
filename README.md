@@ -32,7 +32,7 @@ https://www.kaggle.com/code/mohamedma3rof/dog-vs-cats
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Streamlit App — VETSCAN](#-streamlit-app--vetscan)
+- [Streamlit App](#-streamlit-app-)
 - [Future Work](#-future-work)
 - [Author](#-author)
 
