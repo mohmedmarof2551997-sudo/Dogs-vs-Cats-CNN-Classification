@@ -10,6 +10,12 @@ A convolutional neural network trained from scratch on 25,000 real shelter photo
 **🔗 Live demo:** _(http://localhost:8501/#ai-image-classifier)_
 **📓 Notebook:** [`dog-vs-cats.ipynb`](./dog-vs-cats.ipynb)
 
+## 📒 Kaggle Notebook
+
+You can explore the complete notebook here:
+
+https://www.kaggle.com/code/mohamedma3rof/dog-vs-cats
+
 ---
 
 ## 📋 Table of Contents
