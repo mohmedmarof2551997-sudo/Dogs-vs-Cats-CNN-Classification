@@ -7,7 +7,7 @@ A convolutional neural network trained from scratch on 25,000 real shelter photo
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-ff4b4b?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**🔗 Live demo:** _add your Streamlit Cloud URL here_
+**🔗 Live demo:** _(http://localhost:8501/#ai-image-classifier)_
 **📓 Notebook:** [`dog-vs-cats.ipynb`](./dog-vs-cats.ipynb)
 
 ---
